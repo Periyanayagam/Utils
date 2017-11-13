@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeSnippet.iml" filepath="$PROJECT_DIR$/CodeSnippet.iml" />
+      <module fileurl="file://C:\Users\Intel\AndroidStudioProjects\CodeSnippet\sample\app.iml" filepath="C:\Users\Intel\AndroidStudioProjects\CodeSnippet\sample\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snippets/snippets.iml" filepath="$PROJECT_DIR$/snippets/snippets.iml" />
+    </modules>
+  </component>
+</project>
